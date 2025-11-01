@@ -1,0 +1,25 @@
+@model List<MyMvcApp.Data.Entities.CategoryEntity> 
+
+<h1>Це магазин атб</h1>
+<h1>Atb126799056</h1>
+<table class="table">
+    <thead>
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">Фото</th>
+        <th scope="col">Назва</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach(var category in Model)
+    {
+        <tr>
+            <th scope="row">@category.Id</th>
+            <td>
+                <img src="@category.Image" width="100"/>
+            </td>
+            <td>@category.Name</td>
+        </tr>
+    }
+    </tbody>
+</table>
