@@ -193,3 +193,6 @@
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/MyMvcApp.csproj.AssemblyReference.cache
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/MyMvcApp.csproj.Up2Date
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/MyMvcApp.sourcelink.json
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/AutoMapper.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/SixLabors.ImageSharp.dll

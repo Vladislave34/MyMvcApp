@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NMaoBQ6Dpjc=",
+  "dgSpecHash": "+gKtXTU1xus=",
   "success": true,
   "projectFilePath": "/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/MyMvcApp.csproj",
   "expectedPackageFiles": [
+    "/Users/ostapchukvlad/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/ostapchukvlad/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/ostapchukvlad/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "/Users/ostapchukvlad/.nuget/packages/microsoft.build.framework/17.8.3/microsoft.build.framework.17.8.3.nupkg.sha512",
@@ -33,6 +34,7 @@
     "/Users/ostapchukvlad/.nuget/packages/mono.texttemplating/3.0.0/mono.texttemplating.3.0.0.nupkg.sha512",
     "/Users/ostapchukvlad/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
     "/Users/ostapchukvlad/.nuget/packages/npgsql.entityframeworkcore.postgresql/9.0.4/npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.sha512",
+    "/Users/ostapchukvlad/.nuget/packages/sixlabors.imagesharp/3.1.12/sixlabors.imagesharp.3.1.12.nupkg.sha512",
     "/Users/ostapchukvlad/.nuget/packages/system.codedom/6.0.0/system.codedom.6.0.0.nupkg.sha512",
     "/Users/ostapchukvlad/.nuget/packages/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg.sha512",
     "/Users/ostapchukvlad/.nuget/packages/system.composition/7.0.0/system.composition.7.0.0.nupkg.sha512",

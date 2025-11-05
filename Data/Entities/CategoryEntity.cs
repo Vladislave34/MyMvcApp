@@ -13,5 +13,9 @@ public class CategoryEntity
     [StringLength(255)]
     public string Image { get; set; } = string.Empty;
     
+    public DateTime CreateDate { get; set; } =  DateTime.UtcNow;
+    
+    public bool IsDeleted { get; set; } = false;
+    
     
 }

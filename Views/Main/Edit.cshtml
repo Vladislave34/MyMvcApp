@@ -1,0 +1,35 @@
+@model CategoryEditModel
+
+<div class="container">
+    <h1 class="text-center">Оновити категорію</h1>
+
+    <form class="col-md-6 offset-md-3" asp-action="Edit" method="post" enctype="multipart/form-data">
+        
+        <input type="hidden" asp-for="Id" />
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input class="form-control" asp-for="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Image" class="form-label"></label>
+            <input asp-for="Image" class="form-control" type="file" />
+
+            @if (!string.IsNullOrEmpty(Model.OldImage))
+            {
+                <div class="mt-2">
+                    <img src="~/image/@Model.OldImage" width="120" class="rounded border" />
+                </div>
+            }
+
+            <span asp-validation-for="Image" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Оновити</button>
+        <a asp-action="Index" class="btn btn-secondary">Назад</a>
+    </form>
+</div>

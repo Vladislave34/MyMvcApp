@@ -1,0 +1,37 @@
+using MyMvcApp.Interfaces;
+using SixLabors.ImageSharp;
+using SixLabors.ImageSharp.Formats.Webp;
+using SixLabors.ImageSharp.Processing;
+
+namespace MyMvcApp.Service;
+
+public class ImageService(IConfiguration configuration) : IImageService
+{
+    public async Task<string> UploadImageAsync(IFormFile file)
+    {
+        try
+        {
+            using MemoryStream memoryStream = new MemoryStream();
+            await file.CopyToAsync(memoryStream);
+            string filename = Path.GetRandomFileName() + ".webp";
+            var bytes = memoryStream.ToArray();
+            using var image = Image.Load(bytes);
+            image.Mutate(imgc =>
+            {
+                imgc.Resize(new ResizeOptions()
+                {
+                    Size = new Size(600, 600),
+                    Mode = ResizeMode.Max
+                });
+            });
+            var dirImageName = configuration["DirImagePath"];
+            var path = Path.Combine(Directory.GetCurrentDirectory(), dirImageName, filename);
+            await image.SaveAsync(path, new WebpEncoder());
+            return filename;
+        }
+        catch 
+        {
+            return string.Empty;
+        }
+    }
+}
