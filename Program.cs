@@ -3,6 +3,7 @@ using Microsoft.Extensions.FileProviders;
 using MyMvcApp.Data;
 using MyMvcApp.Data.Entities;
 using MyMvcApp.Interfaces;
+using MyMvcApp.Repositories;
 using MyMvcApp.Service;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,9 +13,9 @@ builder.Services.AddDbContext<MyAppContext>(options => options.UseNpgsql(builder
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IImageService, ImageService>();
-
+builder.Services.AddScoped<ICategoryService, CategoryService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

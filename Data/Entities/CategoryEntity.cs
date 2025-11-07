@@ -4,18 +4,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MyMvcApp.Data.Entities;
 [Table("tblCategory")]
-public class CategoryEntity
+public class CategoryEntity : BaseEntity<int>
 {
-    public int Id { get; set; }
+    
     [StringLength(255)]
     public string Name { get; set; } =  string.Empty;
     
     [StringLength(255)]
     public string Image { get; set; } = string.Empty;
     
-    public DateTime CreateDate { get; set; } =  DateTime.UtcNow;
     
-    public bool IsDeleted { get; set; } = false;
     
     
 }

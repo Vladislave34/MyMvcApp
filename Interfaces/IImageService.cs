@@ -5,4 +5,6 @@ namespace MyMvcApp.Interfaces;
 public interface IImageService
 {
     public Task<string> UploadImageAsync(IFormFile file); 
+    
+    public Task<bool> DeleteImageAsync(string fileName);
 }
