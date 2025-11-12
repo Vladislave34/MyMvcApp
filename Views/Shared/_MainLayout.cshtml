@@ -7,10 +7,12 @@
     <title>ATB</title>
     <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="/lib/bootstrap/dist/js/bootstrap.bundle.min.js" rel="stylesheet">
+    <link href="/css/site.css" rel="stylesheet" />
 </head>
 <body>
 <div>
-      @RenderBody()
+    @await Html.PartialAsync("_Header")
+    @RenderBody()
 </div>
 </body>
 </html>

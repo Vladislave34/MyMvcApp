@@ -1,5 +1,6 @@
 using AutoMapper;
 using AutoMapper.QueryableExtensions;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MyMvcApp.Data;
@@ -14,8 +15,12 @@ public class MainController(
     IConfiguration configuration,
     IMapper mapper,
     IImageService imageService, 
+    
     ICategoryService categoryService) : Controller
 {
+    
+    
+    
     // GET
     public async  Task<IActionResult> Index()
     {

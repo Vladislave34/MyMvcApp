@@ -21,7 +21,6 @@
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/scopedcss/bundle/MyMvcApp.styles.css
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css
-/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/compressed/5ferloct44-b9sayid5wm.gz
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/compressed/pfpmh99ads-61n19gt1b8.gz
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/compressed/ino9o44bup-xtxxf3hu2r.gz
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/compressed/lfmd92xzan-bqjiyaj88i.gz
@@ -196,3 +195,12 @@
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/MyMvcApp.sourcelink.json
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/AutoMapper.dll
 /Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/SixLabors.ImageSharp.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/obj/Debug/net9.0/compressed/5ferloct44-ral1qgh9mi.gz
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/BouncyCastle.Cryptography.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/MailKit.dll
+/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/bin/Debug/net9.0/MimeKit.dll
