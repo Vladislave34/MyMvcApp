@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
+using MyMvcApp.Constants;
 using MyMvcApp.Data;
 using MyMvcApp.Data.Entities;
 using MyMvcApp.Data.Entities.Identity;
@@ -33,6 +34,7 @@ builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IImageService, ImageService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddTransient<IEmailSender, EmailSender>();
+builder.Services.AddScoped<IUserService, UserService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -81,8 +83,8 @@ using (var scoped = app.Services.CreateScope())
 
     if (!db.Roles.Any())
     {
-        string[] roles = {"Admin", "User"};
-        foreach (var item in roles)
+        
+        foreach (var item in Roles.AllRoles)
         {
             var role = new RoleEntity(item);
             var result = await RoleManager.CreateAsync(role);

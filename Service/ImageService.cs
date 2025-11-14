@@ -54,4 +54,23 @@ public class ImageService(IConfiguration configuration) : IImageService
             return false;
         }
     }
+    public async Task<string> UpdateImageAsync(IFormFile newFile, string? oldFileName)
+    {
+        
+        if (newFile == null || newFile.Length == 0)
+            return oldFileName ?? string.Empty;
+
+       
+        string newFileName = await UploadImageAsync(newFile);
+
+       
+        if (string.IsNullOrEmpty(newFileName))
+            return oldFileName ?? string.Empty;
+
+        
+        if (!string.IsNullOrEmpty(oldFileName))
+            await DeleteImageAsync(oldFileName);
+
+        return newFileName;
+    }
 }

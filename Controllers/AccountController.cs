@@ -1,6 +1,7 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using MyMvcApp.Constants;
 using MyMvcApp.Data.Entities.Identity;
 using MyMvcApp.Interfaces;
 using MyMvcApp.Models.Account;
@@ -129,6 +130,7 @@ public class AccountController(UserManager<UserEntity> userManager,
 
         if (result.Succeeded)
         {
+            result = await userManager.AddToRoleAsync(user, Roles.User);
             await signInManager.SignInAsync(user, isPersistent: false);
             return RedirectToAction("Index", "Main");
         }
