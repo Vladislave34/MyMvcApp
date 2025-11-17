@@ -82,11 +82,9 @@ using (var scoped = app.Services.CreateScope())
 {
     var db = scoped.ServiceProvider.GetRequiredService<MyAppContext>();
     var RoleManager = scoped.ServiceProvider.GetRequiredService<RoleManager<RoleEntity>>();
-    var emailSender = scoped.ServiceProvider.GetRequiredService<IEmailSender>(); // <-- беремо сервіс
 
     db.Database.Migrate();
    
-    await emailSender .SendEmailAsync("ostapchuk_vladyslav@gymnasia21.lutsk.ua", "Скидання пароля", "<b>Тест повідомлення</b>");
 
     if (!db.Roles.Any())
     {
