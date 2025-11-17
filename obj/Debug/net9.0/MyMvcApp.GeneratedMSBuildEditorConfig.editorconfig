@@ -28,6 +28,262 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Auth/ForgotPasswordBasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aC9Gb3Jnb3RQYXNzd29yZEJhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Auth/LoginBasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aC9Mb2dpbkJhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Auth/RegisterBasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aC9SZWdpc3RlckJhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Cards/Basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FyZHMvQmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Dashboards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/ExtendedUi/PerfectScrollbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRXh0ZW5kZWRVaS9QZXJmZWN0U2Nyb2xsYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/ExtendedUi/TextDivider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRXh0ZW5kZWRVaS9UZXh0RGl2aWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/FormLayouts/Horizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRm9ybUxheW91dHMvSG9yaXpvbnRhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/FormLayouts/Vertical.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRm9ybUxheW91dHMvVmVydGljYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Forms/BasicInputs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRm9ybXMvQmFzaWNJbnB1dHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Forms/InputGroups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRm9ybXMvSW5wdXRHcm91cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Icons/MdiIcons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSWNvbnMvTWRpSWNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Icons/RiIcons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSWNvbnMvUmlJY29ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/LayoutExamples/Blank.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0RXhhbXBsZXMvQmxhbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/LayoutExamples/Container.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0RXhhbXBsZXMvQ29udGFpbmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/LayoutExamples/Fluid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0RXhhbXBsZXMvRmx1aWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/LayoutExamples/WithoutMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0RXhhbXBsZXMvV2l0aG91dE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/LayoutExamples/WithoutNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0RXhhbXBsZXMvV2l0aG91dE5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Pages/AccountSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZXMvQWNjb3VudFNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Pages/AccountSettingsConnections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZXMvQWNjb3VudFNldHRpbmdzQ29ubmVjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Pages/AccountSettingsNotifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZXMvQWNjb3VudFNldHRpbmdzTm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Pages/MiscError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZXMvTWlzY0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Pages/MiscNotAuthorized.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZXMvTWlzY05vdEF1dGhvcml6ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Pages/MiscUnderMaintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZXMvTWlzY1VuZGVyTWFpbnRlbmFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Sections/Footer/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1NlY3Rpb25zL0Zvb3Rlci9fRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Sections/Menu/_VerticalMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1NlY3Rpb25zL01lbnUvX1ZlcnRpY2FsTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Sections/Navbar/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1NlY3Rpb25zL05hdmJhci9fTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Sections/Navbar/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1NlY3Rpb25zL05hdmJhci9fTmF2YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Sections/_Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1NlY3Rpb25zL19TY3JpcHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Sections/_ScriptsIncludes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1NlY3Rpb25zL19TY3JpcHRzSW5jbHVkZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Sections/_Styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1NlY3Rpb25zL19TdHlsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/Sections/_Variables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1NlY3Rpb25zL19WYXJpYWJsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/_BlankLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19CbGFua0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/_CommonMasterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19Db21tb25NYXN0ZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/_ContentNavbarLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19Db250ZW50TmF2YmFyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Tables/Basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGFibGVzL0Jhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Accordion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvQWNjb3JkaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Alerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvQWxlcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Badges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvQmFkZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvQnV0dG9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvQ2Fyb3VzZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Collapse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvQ29sbGFwc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Dropdowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvRHJvcGRvd25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/ListGroups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvTGlzdEdyb3Vwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Modals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvTW9kYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Offcanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvT2ZmY2FudmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/PaginationBreadcrumbs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvUGFnaW5hdGlvbkJyZWFkY3J1bWJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Progress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvUHJvZ3Jlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Spinners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvU3Bpbm5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/TabsPills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvVGFic1BpbGxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Toasts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvVG9hc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/TooltipsPopovers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvVG9vbHRpcHNQb3BvdmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Ui/Typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVWkvVHlwb2dyYXBoeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/_Partials/_Macros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1BhcnRpYWxzL19NYWNyb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -90,14 +346,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Views/Users/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Views/Users/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/ostapchukvlad/vlad/asp.net/MyMvcApp/Views/_ViewImports.cshtml]

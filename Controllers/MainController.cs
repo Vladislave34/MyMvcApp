@@ -8,7 +8,7 @@ using MyMvcApp.Data.Entities;
 using MyMvcApp.Interfaces;
 using MyMvcApp.Models.Model;
 
-namespace MyMvcApp.Controllers;
+namespace MyMvcApp.Areas.Admin.Controllers;
 
 public class MainController(
     MyAppContext db,

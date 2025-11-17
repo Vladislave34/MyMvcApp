@@ -1,5 +1,6 @@
+using MyMvcApp.Areas.Admin.Models.User;
 using MyMvcApp.Data.Entities.Identity;
-using MyMvcApp.Models.User;
+
 
 namespace MyMvcApp.Interfaces;
 

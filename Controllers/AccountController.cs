@@ -6,7 +6,7 @@ using MyMvcApp.Data.Entities.Identity;
 using MyMvcApp.Interfaces;
 using MyMvcApp.Models.Account;
 
-namespace MyMvcApp.Controllers;
+namespace MyMvcApp.Areas.Admin.Controllers;
 using Microsoft.AspNetCore.Mvc;
 
 public class AccountController(UserManager<UserEntity> userManager,
@@ -99,7 +99,7 @@ public class AccountController(UserManager<UserEntity> userManager,
             if (result.Succeeded)
             {
                 await signInManager.SignInAsync(user, isPersistent: false);
-                return RedirectToAction("Index", "Main", user);
+                return RedirectToAction("Index", "Main");
             }
             
         }

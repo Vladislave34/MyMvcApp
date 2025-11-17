@@ -1,11 +1,13 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using MyMvcApp.Constants;
 using MyMvcApp.Interfaces;
-using MyMvcApp.Models.User;
+using MyMvcApp.Areas.Admin.Models.User;
 
-namespace MyMvcApp.Controllers;
-
+namespace MyMvcApp.Areas.Admin.Controllers;
+[Area("Admin")]
+[Authorize(Roles = $"{Roles.Admin}")]
 public class UsersController(IUserService userService, IImageService imageService) : Controller
 {
     public async Task<IActionResult> Index()

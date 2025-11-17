@@ -15,6 +15,10 @@ public class MyAppContext : IdentityDbContext<UserEntity, RoleEntity,
         
     }
     public DbSet<CategoryEntity> Categories { get; set; }
+    
+    public DbSet<GoodsEntity> Goods { get; set; }
+    
+    public DbSet<GoodsImageEntity> GoodsImages { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
@@ -29,6 +33,12 @@ public class MyAppContext : IdentityDbContext<UserEntity, RoleEntity,
             .HasOne(ur => ur.Role)
             .WithMany(u => u.UserRoles)
             .HasForeignKey(ur => ur.RoleId);
+        
+        builder.Entity<GoodsEntity>()
+            .HasMany(g => g.Images)
+            .WithOne(i => i.Goods)
+            .HasForeignKey(i => i.GoodsId)
+            .OnDelete(DeleteBehavior.Cascade);
 
     }
 

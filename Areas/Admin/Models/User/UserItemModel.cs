@@ -1,4 +1,4 @@
-namespace MyMvcApp.Models.User;
+namespace MyMvcApp.Areas.Admin.Models.User;
 
 public class UserItemModel
 {

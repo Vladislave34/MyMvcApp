@@ -23,4 +23,12 @@
         
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Areas\Admin\" />
+      <Folder Include="Migrations\" />
+      <Folder Include="Models\User\" />
+      <Folder Include="Views\Users\" />
+      <Folder Include="wwwroot\admin\" />
+    </ItemGroup>
+
 </Project>

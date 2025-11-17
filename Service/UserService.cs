@@ -2,10 +2,11 @@ using AutoMapper;
 using AutoMapper.QueryableExtensions;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using MyMvcApp.Areas.Admin.Models.User;
 using MyMvcApp.Data;
 using MyMvcApp.Data.Entities.Identity;
 using MyMvcApp.Interfaces;
-using MyMvcApp.Models.User;
+
 
 namespace MyMvcApp.Service;
 
