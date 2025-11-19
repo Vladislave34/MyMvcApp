@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using MyMvcApp.Data.Entities;
 using MyMvcApp.Data.Entities.Identity;
 
+
 namespace MyMvcApp.Data;
 
 public class MyAppContext : IdentityDbContext<UserEntity, RoleEntity,
@@ -16,9 +17,17 @@ public class MyAppContext : IdentityDbContext<UserEntity, RoleEntity,
     }
     public DbSet<CategoryEntity> Categories { get; set; }
     
-    public DbSet<GoodsEntity> Goods { get; set; }
+    public DbSet<ProductEntity> Goods { get; set; }
     
-    public DbSet<GoodsImageEntity> GoodsImages { get; set; }
+    public DbSet<ProductImageEntity> GoodsImages { get; set; }
+    
+    public DbSet<CartEntity> Carts { get; set; }
+    
+    public DbSet<OrderStatusEntity> OrderStatuses { get; set; }
+    
+    public DbSet<OrderEntity> Orders { get; set; }
+    
+    public DbSet<OrderItemEntity> OrderItems { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
@@ -34,11 +43,9 @@ public class MyAppContext : IdentityDbContext<UserEntity, RoleEntity,
             .WithMany(u => u.UserRoles)
             .HasForeignKey(ur => ur.RoleId);
         
-        builder.Entity<GoodsEntity>()
-            .HasMany(g => g.Images)
-            .WithOne(i => i.Goods)
-            .HasForeignKey(i => i.GoodsId)
-            .OnDelete(DeleteBehavior.Cascade);
+        builder.Entity<CartEntity>()
+            .HasKey(pi => new { pi.UserId, pi.ProductId });
+        
 
     }
 
